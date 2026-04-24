@@ -1,38 +1,14 @@
-<<<<<<< HEAD
-<h1 align="center">Hi 👋, I'm daizuongkk</h1>
-<h3 align="center">Success doesn’t just happen, we create it.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daizuongkk&label=Profile%20views&color=0e75b6&style=flat" alt="daizuongkk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daizuongkk" alt="daizuongkk" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/đạii nguyễn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đạii nguyễn" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/daizuongkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="daizuongkk" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daizuongkk&show_icons=true&locale=en&layout=compact" alt="daizuongkk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daizuongkk&show_icons=true&locale=en" alt="daizuongkk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daizuongkk&" alt="daizuongkk" /></p>
-
-=======
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Great+Vibes&size=32&pause=1000&color=00FF7F&center=true&vCenter=true&repeat=false&width=500&lines=Nguy%E1%BB%85n+Tr%E1%BB%8Dng+%C4%90%E1%BA%A1i"></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
 
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/daizuongkk"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/VPfxKs9x2K" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/cFAkCXVQ" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/hoangtien_2k3"><img width="32px" alt="Dev.to" title="daizuongkk Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/daizuongkk"><img width="32px" alt="Dev.to" title="daizuongkk Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/daizuongkk"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -51,8 +27,8 @@
 
   <div align="left">
 
-Tôi đam mê công nghệ, đặc biệt là phát triển hệ thống phụ trợ. Tôi thích học hỏi, khám phá kiến thức mới,
-và tích cực đóng góp vào các dự án mã nguồn mở cho cộng đồng. Ngoài ra mình thường xuyên chia sẻ kiến ​​thức trên kênh TikTok của mình
+I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge,
+and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daizuongkk/daizuongkk/output/pacman-contribution-graph-dark.svg">
@@ -109,6 +85,7 @@ và tích cực đóng góp vào các dự án mã nguồn mở cho cộng đồ
 
  <h3 align="left"> 📚 Languages and Tools </h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
   <img src="https://img.shields.io/badge/Java-snow?logo=coffeescript&logoColor=FC4C02" alt="" />
   <img src="https://img.shields.io/badge/C%2B%2B-snow?logo=c%2B%2B&logoColor=00599C" alt="" />
   <img src="https://img.shields.io/badge/C-snow?logo=c&logoColor=A8B9CC" alt="" />
@@ -121,7 +98,6 @@ và tích cực đóng góp vào các dự án mã nguồn mở cho cộng đồ
   <img src="https://img.shields.io/badge/Kotlin-snow?logo=kotlin&logoColor=7F52FF" alt="" />
   <img src="https://img.shields.io/badge/TypeScript-snow?logo=typescript&logoColor=3178C6" alt="" />
   <img src="https://img.shields.io/badge/Dart-snow?logo=dart&logoColor=0175C2" alt="" />
-	<img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
 </p>
 
 <h3>🔥 Streak Stats</h3>
@@ -130,9 +106,9 @@ và tích cực đóng góp vào các dự án mã nguồn mở cho cộng đồ
   <p>
     <a href="https://github.com/daizuongkk/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="daizuongkk's streak" src="https://streak-stats.demolab.com/?user=daizuongkk&theme=monokai-metallian&hide_border=true"/>
-      <img src="https://i.ibb.co/8Lj2Tddp/daizuongkk.png" alt="daizuongkk" width="200px">
+      <img src="https://i.ibb.co/4njM9YYG/daizuongkk.png" alt="daizuongkk" width="200px">
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="daizuongkk.github.io">daizuongkk.github.io</a></p>
+    <p>🔥 Get streak stats for your profile at <a href="daizuongkk.id.vn">daizuongkk.id.vn</a></p>
   </p>
 
 <h3>💻💬 GitHub Profile Stats</h3>
@@ -194,5 +170,8 @@ or skill level.
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vineet221713.io)
 
-</details>
->>>>>>> 832d9c1 (daizuongkk)
+</details>  
+Beta
+0 / 0
+used queries
+1
