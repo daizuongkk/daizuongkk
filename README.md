@@ -1,14 +1,14 @@
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=34&pause=1000&color=00FF7F&center=true&vCenter=true&repeat=false&width=520&lines=Nguy%E1%BB%85n+Tr%E1%BB%8Dng+%C4%90%E1%BA%A1i"></a>
 
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/daizuongkk"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/cFAkCXVQ" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/VPfxKs9x2K" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/daizuongkk"><img width="32px" alt="Dev.to" title="daizuongkk Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://daizuongkk.id.vn"><img width="32px" alt="Dev.to" title="daizuongkk Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/daizuongkk"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -28,7 +28,7 @@
   <div align="left">
 
 I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge,
-and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
+and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daizuongkk/daizuongkk/output/pacman-contribution-graph-dark.svg">
