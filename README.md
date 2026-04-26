@@ -85,13 +85,13 @@ and actively contributing to open-source projects for the community. In addition
 
  <h3 align="left"> 📚 Languages and Tools </h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
   <img src="https://img.shields.io/badge/Java-snow?logo=coffeescript&logoColor=FC4C02" alt="" />
   <img src="https://img.shields.io/badge/C%2B%2B-snow?logo=c%2B%2B&logoColor=00599C" alt="" />
   <img src="https://img.shields.io/badge/C-snow?logo=c&logoColor=A8B9CC" alt="" />
   <img src="https://img.shields.io/badge/C%23-snow?logo=csharp&logoColor=512BD4" alt="" />
   <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&logoColor=E9CE30" alt="" />
   <img src="https://img.shields.io/badge/Go-snow?logo=go&logoColor=00ADD8" alt="" />
+   <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
   <img src="https://img.shields.io/badge/Swift-snow?logo=swift&logoColor=F05138" alt="" />
   <img src="https://img.shields.io/badge/Rust-snow?logo=rust&logoColor=000000" alt="" />
   <img src="https://img.shields.io/badge/Ruby-snow?logo=ruby&logoColor=CC342D" alt="" />
