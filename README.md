@@ -73,7 +73,7 @@ and actively contributing to open-source projects for the community. In addition
 
 ![Header](img/header_.png)
 
-![TIEN2K3](gitartwork.svg)
+![daizuongkk](gitartwork.svg)
 
 ![Grid-Snake](https://raw.githubusercontent.com/daizuongkk/daizuongkk/main/dist/grid-snake.svg)
 
